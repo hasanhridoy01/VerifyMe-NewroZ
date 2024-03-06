@@ -1359,37 +1359,48 @@
 .our-section-bottom .box-1 {
   width: 380px;
   height: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-radius: 2px;
-  background: #D9F1F1;
+  background: #d9f1f1;
+}
+.Bcontent {
+  background: #d9f1f1;
+  width: 323px;
+  height: 170px;
+  padding: 20px 20px 0px 0px;
+  gap: 12px;
+  margin-left: 20px;
 }
 .our-section-bottom .box-2 {
   width: 380px;
   height: 200px;
   border-radius: 2px;
-  background: #D9F1F1;
+  background: #d9f1f1;
 }
 .our-section-bottom .box-3 {
   width: 380px;
   height: 200px;
   border-radius: 2px;
-  background: #D9F1F1;
+  background: #d9f1f1;
 }
 .our-section-bottom .box-4 {
   width: 380px;
   height: 200px;
   border-radius: 2px;
-  background: #D9F1F1;
+  background: #d9f1f1;
 }
 .our-section-bottom .box-5 {
   width: 380px;
   height: 200px;
   border-radius: 2px;
-  background: #D9F1F1;
+  background: #d9f1f1;
 }
 .our-section-bottom .box-6 {
   width: 380px;
   height: 200px;
   border-radius: 2px;
-  background: #D9F1F1;
+  background: #d9f1f1;
 }
 /* OUR-SERVICES-Style-SECTION-End */
