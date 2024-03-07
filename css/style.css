@@ -1431,6 +1431,7 @@
   border-radius: 2px;
   background: #d9f1f1;
   transition: 1.5s;
+  overflow: hidden;
 }
 .our-section-bottom .box-6:hover {
   transform: scale(1.1);
