@@ -1766,12 +1766,12 @@
   height: 45px;
   padding: 15px 16px 15px 16px;
   border-radius: 30px;
-  border: 1px solid #00A1A1;
+  border: 1px solid #00a1a1;
   gap: 10px;
-  background: #FFFFFF;
+  background: #ffffff;
 }
-.simpleEasyer-Section-content .box-1 .btn:hover{
-  background: #00A1A1;
+.simpleEasyer-Section-content .box-1 .btn:hover {
+  background: #00a1a1;
   color: #e7fffd;
 }
 .simpleEasyer-Section-content .box-2 {
@@ -1792,6 +1792,7 @@
   text-align: center;
   background: white;
   border: none;
+  border: 2px solid #00a1a1;
 }
 .simpleEasyer-Section-content .box-2 .personal {
   left: 30px;
@@ -1950,11 +1951,11 @@
   border: 1px solid #ffffff;
   gap: 10px;
   color: #ffffff;
-  background: #00A1A1;
+  background: #00a1a1;
 }
 .simpleEasyer-Section-content .box-2 .btn:hover {
   background: #ffffff;
-  border: 1px solid #00A1A1;
+  border: 1px solid #00a1a1;
   color: #000;
 }
 
@@ -2131,11 +2132,39 @@
   height: 45px;
   padding: 15px 16px 15px 16px;
   border-radius: 30px;
-  border: 1px solid #00A1A1;
+  border: 1px solid #00a1a1;
   gap: 10px;
-  background: #FFFFFF;
+  background: #ffffff;
 }
-.simpleEasyer-Section-content .box-3 .btn:hover{
-  background: #00A1A1;
+.simpleEasyer-Section-content .box-3 .btn:hover {
+  background: #00a1a1;
+  color: #ffffff;
 }
 /* SIMPLE-EASYER-SECTION-STYLE-END */
+
+/* ACCOUNT-SECTION-Style-START */
+.Account-Section {
+  width: 1919px;
+  height: 740px;
+  padding: 0px 0px 100px 0px;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.Account-Section-Left {
+}
+.Account-Section-Right {
+}
+.Account-Section-Left img {
+  width: 495px;
+  height: 540px;
+  gap: 3px;
+}
+.Account-Section-Right img {
+  width: 495px;
+  height: 540px;
+  /* padding: 60px 0px 60px 0px; */
+  gap: 12px;
+}
+/* ACCOUNT-SECTION-Style-End */
