@@ -142,6 +142,7 @@
   font-weight: 900;
   font-style: italic;
 }
+
 /* GOOGLE-FONT-END */
 
 * {
@@ -1364,43 +1365,776 @@
   align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
+  transition: 1.5s;
 }
-.Bcontent {
-  background: #d9f1f1;
-  width: 323px;
-  height: 170px;
-  padding: 20px 20px 0px 0px;
-  gap: 12px;
-  margin-left: 20px;
+.our-section-bottom .box-1:hover {
+  transform: scale(1.1);
 }
 .our-section-bottom .box-2 {
   width: 380px;
   height: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
+  transition: 1.5s;
+}
+.our-section-bottom .box-2:hover {
+  transform: scale(1.1);
 }
 .our-section-bottom .box-3 {
   width: 380px;
   height: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
+  transition: 1.5s;
+}
+.our-section-bottom .box-3:hover {
+  transform: scale(1.1);
 }
 .our-section-bottom .box-4 {
   width: 380px;
   height: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
+  transition: 1.5s;
+}
+.our-section-bottom .box-4:hover {
+  transform: scale(1.1);
 }
 .our-section-bottom .box-5 {
   width: 380px;
   height: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
+  transition: 1.5s;
+}
+.our-section-bottom .box-5:hover {
+  transform: scale(1.1);
 }
 .our-section-bottom .box-6 {
   width: 380px;
   height: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border-radius: 2px;
+  background: #d9f1f1;
+  transition: 1.5s;
+}
+.our-section-bottom .box-6:hover {
+  transform: scale(1.1);
+}
+.sectionHeader {
+  width: 258.5px;
+  height: 43px;
+  font-family: Exo;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #d9f1f1;
+  padding-left: 20px;
+}
+.sectionHeaderIdentity {
+  width: 258.5px;
+  height: 43px;
+  font-family: Exo;
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #d9f1f1;
+  padding-left: 20px;
+}
+.sectionContent {
+  width: 258.5px;
+  height: 64px;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 10px;
+  background: #d9f1f1;
+}
+.sectionFooter {
+  width: 258.5px;
+  height: 19px;
+  font-family: Exo;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 20px;
   background: #d9f1f1;
 }
 /* OUR-SERVICES-Style-SECTION-End */
+
+/* SIMPLE-EASYER-SECTION-STYLE-START */
+.simpleEasyer-Section {
+  width: 100%;
+  height: 1279px;
+  padding: 100px 0px 0px 0px;
+  gap: 10px;
+  margin-top: 400px;
+}
+.simpleEasyer-Section-content {
+  width: 100%;
+  height: 1179px;
+  gap: 10px;
+  background: #d9f1f1;
+  /* padding: 300px 300px 0px 300px; */
+}
+.simpleEasyer-Section-content img {
+  width: 1170px;
+  height: 815px;
+  margin-left: 200px;
+  margin-right: 340px;
+  margin-top: 200px;
+  position: relative;
+  background: none;
+}
+.simpleEasyer-Section-content h2 {
+  position: absolute;
+  top: 6800px;
+  background: none;
+  left: 580px;
+  font-family: Exo;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.simpleEasyer-Section-content p {
+  position: absolute;
+  top: 6888px;
+  background: none;
+  left: 620px;
+  font-family: Exo;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.SimpleEasyerExtraP {
+  position: absolute;
+  top: 6860px;
+  background: none;
+  left: 420px;
+  font-family: Exo;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.simpleEasyer-Section-content .individual {
+  position: absolute;
+  top: 6960px;
+  background: none;
+  left: 600px;
+  width: 182px;
+  height: 52px;
+  padding: 14px 38px 14px 38px;
+  border-radius: 100px;
+  gap: 10px;
+  font-family: Exo;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: #ffffff;
+  z-index: 1;
+  border: none;
+}
+.simpleEasyer-Section-content .Organization {
+  position: absolute;
+  top: 6960px;
+  background: none;
+  left: 750px;
+  width: 204px;
+  height: 52px;
+  padding: 14px 38px 14px 38px;
+  border-radius: 100px;
+  gap: 10px;
+  font-family: Exo;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: #00a1a1;
+  border: none;
+}
+.simpleEasyer-Section-content .box-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.simpleEasyer-Section-content .box-1 {
+  position: absolute;
+  top: 7100px;
+  background: none;
+  left: 330px;
+  width: 236px;
+  height: 325px;
+  padding: 31px 33px 31px 33px;
+  border-radius: 2px;
+  gap: 30px;
+  font-family: Exo;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: white;
+  border: none;
+}
+.simpleEasyer-Section-content .box-1 .personal {
+  left: 30px;
+  top: 20px;
+  width: 91px;
+  height: 29px;
+  font-family: Exo;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.simpleEasyer-Section-content .box-1 .dolar {
+  position: absolute;
+  left: 30px;
+  width: 96px;
+  height: 66px;
+  top: 59px;
+  font-family: Exo;
+  font-size: 60px;
+  font-weight: 300;
+  line-height: 66px;
+  letter-spacing: 0px;
+  text-align: left;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .month {
+  position: absolute;
+  width: 57px;
+  height: 24px;
+  top: 93.6px;
+  left: 128px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .PPFirst {
+  position: absolute;
+  top: 140px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .hr {
+  position: absolute;
+  top: 190px;
+  left: 30px;
+  width: 250px;
+  /* height: 0.5px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .PP1 {
+  position: absolute;
+  top: 215px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .PP2 {
+  position: absolute;
+  top: 240px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .PP3 {
+  position: absolute;
+  top: 265px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .PP4 {
+  position: absolute;
+  top: 289px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .PP5 {
+  position: absolute;
+  top: 245px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-1 .btn {
+  position: absolute;
+  top: 325px;
+  left: 30px;
+  width: 239px;
+  height: 45px;
+  padding: 15px 16px 15px 16px;
+  border-radius: 30px;
+  border: 1px solid #00A1A1;
+  gap: 10px;
+  background: #FFFFFF;
+}
+.simpleEasyer-Section-content .box-1 .btn:hover{
+  background: #00A1A1;
+  color: #e7fffd;
+}
+.simpleEasyer-Section-content .box-2 {
+  position: absolute;
+  top: 7100px;
+  background: none;
+  left: 645px;
+  width: 236px;
+  height: 325px;
+  padding: 31px 33px 31px 33px;
+  border-radius: 2px;
+  gap: 30px;
+  font-family: Exo;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: white;
+  border: none;
+}
+.simpleEasyer-Section-content .box-2 .personal {
+  left: 30px;
+  top: 20px;
+  width: 91px;
+  height: 29px;
+  font-family: Exo;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.simpleEasyer-Section-content .box-2 .dolar {
+  position: absolute;
+  left: 30px;
+  width: 96px;
+  height: 66px;
+  top: 59px;
+  font-family: Exo;
+  font-size: 60px;
+  font-weight: 300;
+  line-height: 66px;
+  letter-spacing: 0px;
+  text-align: left;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .month {
+  position: absolute;
+  width: 57px;
+  height: 24px;
+  top: 93.6px;
+  left: 128px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .PPFirst {
+  position: absolute;
+  top: 140px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .hr {
+  position: absolute;
+  top: 190px;
+  left: 30px;
+  width: 250px;
+  /* height: 0.5px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .PP1 {
+  position: absolute;
+  top: 215px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .PP2 {
+  position: absolute;
+  top: 240px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .PP3 {
+  position: absolute;
+  top: 265px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .PP4 {
+  position: absolute;
+  top: 289px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .PP5 {
+  position: absolute;
+  top: 245px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-2 .btn {
+  position: absolute;
+  top: 325px;
+  left: 30px;
+  width: 239px;
+  height: 45px;
+  padding: 15px 16px 15px 16px;
+  border-radius: 30px;
+  border: 1px solid #ffffff;
+  gap: 10px;
+  color: #ffffff;
+  background: #00A1A1;
+}
+.simpleEasyer-Section-content .box-2 .btn:hover {
+  background: #ffffff;
+  border: 1px solid #00A1A1;
+  color: #000;
+}
+
+.simpleEasyer-Section-content .box-3 {
+  position: absolute;
+  top: 7100px;
+  background: none;
+  left: 960px;
+  width: 236px;
+  height: 325px;
+  padding: 31px 33px 31px 33px;
+  border-radius: 2px;
+  gap: 30px;
+  font-family: Exo;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: white;
+  border: none;
+}
+.simpleEasyer-Section-content .box-3 .personal {
+  left: 30px;
+  top: 20px;
+  width: 91px;
+  height: 29px;
+  font-family: Exo;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.simpleEasyer-Section-content .box-3 .dolar {
+  position: absolute;
+  left: 30px;
+  width: 96px;
+  height: 66px;
+  top: 59px;
+  font-family: Exo;
+  font-size: 60px;
+  font-weight: 300;
+  line-height: 66px;
+  letter-spacing: 0px;
+  text-align: left;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .month {
+  position: absolute;
+  width: 57px;
+  height: 24px;
+  top: 93.6px;
+  left: 128px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .PPFirst {
+  position: absolute;
+  top: 140px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .hr {
+  position: absolute;
+  top: 190px;
+  left: 30px;
+  width: 250px;
+  /* height: 0.5px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .PP1 {
+  position: absolute;
+  top: 215px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .PP2 {
+  position: absolute;
+  top: 240px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .PP3 {
+  position: absolute;
+  top: 265px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .PP4 {
+  position: absolute;
+  top: 289px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .PP5 {
+  position: absolute;
+  top: 245px;
+  left: 30px;
+  width: 250px;
+  height: 19px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #888888;
+  background: none;
+}
+.simpleEasyer-Section-content .box-3 .btn {
+  position: absolute;
+  top: 325px;
+  left: 30px;
+  width: 239px;
+  height: 45px;
+  padding: 15px 16px 15px 16px;
+  border-radius: 30px;
+  border: 1px solid #00A1A1;
+  gap: 10px;
+  background: #FFFFFF;
+}
+.simpleEasyer-Section-content .box-3 .btn:hover{
+  background: #00A1A1;
+}
+/* SIMPLE-EASYER-SECTION-STYLE-END */
