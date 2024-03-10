@@ -177,7 +177,7 @@
   height: 37px;
   gap: 10px;
 }
-.Main-Navigation .links img:hover{
+.Main-Navigation .links img:hover {
   background: #ffffff;
   border-radius: 10px;
 }
@@ -190,7 +190,7 @@
 }
 .Main-Navigation .links li a {
   text-decoration: none;
-  margin-right: 10px;
+  margin-right: 0px;
   font-family: Inter;
   font-size: 14px;
   font-weight: 700;
@@ -227,6 +227,87 @@
 .userImg {
   width: 30px;
   height: 30px;
+}
+/* Style the dropdown menu */
+ul.dropdown {
+  display: none;
+  position: absolute;
+  margin-top: 20px;
+  background: #ffffff;
+  padding-left: 0px;
+}
+ul.dropdown .dropdownOne {
+  width: 230px;
+  margin-top: 10px;
+  background: none;
+  padding-left: 0px;
+}
+
+ul.dropdown li {
+  display: block;
+  margin: 0;
+  background: none;
+  padding-left: 0px;
+}
+ul.dropdown li a {
+  display: block;
+  margin: 0;
+  background: none;
+  padding: 4px 10px 0px 10px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 0.17em;
+  text-align: left;
+  padding-left: 0px;
+}
+
+ul.links > li:hover > ul.dropdown {
+  display: block;
+  width: 400px;
+  padding-left: 0px;
+}
+
+
+ul.dropdownTwo {
+  display: none;
+  position: absolute;
+  margin-top: 20px;
+  background: #ffffff;
+  padding-left: 0px;
+}
+ul.dropdownTwo .dropdownOne {
+  width: 230px;
+  margin-top: 10px;
+  background: none;
+  padding-left: 0px;
+}
+
+ul.dropdownTwo li {
+  display: block;
+  margin: 0;
+  background: none;
+  padding-left: 0px;
+}
+ul.dropdownTwo li a {
+  display: block;
+  margin: 0;
+  background: none;
+  padding: 4px 10px 0px 10px;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 0.17em;
+  text-align: left;
+  padding-left: 0px;
+}
+
+ul.links > li:hover > ul.dropdownTwo {
+  display: block;
+  width: 400px;
+  padding-left: 0px;
 }
 /* HEADER-STYLE-END */
 
@@ -507,7 +588,7 @@
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
   .boxOne:hover {
-    transform: scale(1.04);
+  transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
@@ -769,7 +850,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxOne
   .btn {
-    font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -823,7 +904,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxTwo
   .btn {
-    font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -857,7 +938,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxThree
   h4 {
-    font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -883,7 +964,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxThree
   .btn {
-    font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -2244,17 +2325,17 @@ footer {
   border: 1px 0px 0px 0px;
   margin-top: 20px;
 }
-.footer-section{
+.footer-section {
   display: flex;
   justify-content: space-between;
 }
-.footer-section .footer-left{
+.footer-section .footer-left {
   display: flex;
   justify-content: space-between;
   gap: 30px;
   margin-left: 0px;
 }
-.footer-section .footer-right{
+.footer-section .footer-right {
   margin-right: 0px;
 }
 /* FOOTER-MENU-SECTION-STYLE-END */

@@ -1,0 +1,13 @@
+.kyc-banner-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 1400px;
+  height: 350px;
+  gap: 22px;
+}
+.kyc-banner-section .kyc-banner-section-left {
+}
+.kyc-banner-section .kyc-banner-section-right {
+}

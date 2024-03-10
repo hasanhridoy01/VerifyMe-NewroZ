@@ -17,6 +17,8 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
         rel="stylesheet">
+    <!-- FontAwesome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -30,9 +32,30 @@
             </div>
             <div class="Main-Navigation">
                 <ul class="links">
-                    <img src="./images/header/group.png" alt="">
-                    <li><a href="">Solutions</a></li>
-                    <li><a href="">Industries</a></li>
+                    <li>
+                        <img src="./images/header/group.png" alt="">
+                    </li>
+                    <li>
+                        <a href="">Solutions</a>
+                        <ul class="dropdown">
+                            <li class="dropdownOne" style="margin-top: 10px; padding-top: 0px;"><a href="" style="padding-top: 4px;">KYC Compliance</a></li>
+                            <li class="dropdownOne"><a href="">ID Document Verification</a></li>
+                            <li class="dropdownOne"><a href="">Customer Onboarding</a></li>
+                            <li class="dropdownOne"><a href="">KYC Flow Builder</a></li>
+                            <li class="dropdownOne"><a href="">Proof of Address</a></li>
+                            <li class="dropdownOne"><a href="">Age Verification</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">Industries</a>
+                        <ul class="dropdownTwo">
+                            <li class="dropdownOne" style="margin-top: 10px; padding-top: 0px;"><a href="" style="padding-top: 4px;">Financial Services</a></li>
+                            <li class="dropdownOne"><a href="">Crypto</a></li>
+                            <li class="dropdownOne"><a href="">Gaming and E-sports</a></li>
+                            <li class="dropdownOne"><a href="">Legal Industry</a></li>
+                            <li class="dropdownOne"><a href="">Healthcare</a></li>
+                            <li class="dropdownOne"><a href="">Marketplaces</a></li>
+                        </ul>
+                    </li>
                     <li><a href="">Pricing</a></li>
                     <li><a href="">Contact Us</a></li>
                 </ul>
@@ -41,6 +64,10 @@
                 <img src="./images/header/search-normal.png" alt="" class="searchImg">
                 <img src="./images/header/Frame 48095401.png" alt="" class="userImg">
             </div>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+                <i class="fa fa-bars"></i>
+            </label>
         </div>
     </header>
     <!-- HEADER-END -->
