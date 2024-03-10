@@ -1217,10 +1217,10 @@
   border: 1px;
   background: #d9f1f1;
   position: relative;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Our-Product .Our-Product-Content-Bottom .box-1:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Our-Product .Our-Product-Content-Bottom .box-2 {
   width: 380.33px;
@@ -1230,10 +1230,10 @@
   border: 1px;
   background: #d9f1f1;
   position: relative;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Our-Product .Our-Product-Content-Bottom .box-2:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Our-Product .Our-Product-Content-Bottom .box-3 {
   width: 380.33px;
@@ -1243,10 +1243,10 @@
   border: 1px;
   background: #d9f1f1;
   position: relative;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Our-Product .Our-Product-Content-Bottom .box-3:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .productImage {
   width: 80px;
@@ -1373,10 +1373,10 @@
   align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .our-section-bottom .box-1:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .our-section-bottom .box-2 {
   width: 380px;
@@ -1386,10 +1386,10 @@
   align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .our-section-bottom .box-2:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .our-section-bottom .box-3 {
   width: 380px;
@@ -1399,10 +1399,10 @@
   align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .our-section-bottom .box-3:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .our-section-bottom .box-4 {
   width: 380px;
@@ -1412,10 +1412,10 @@
   align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .our-section-bottom .box-4:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .our-section-bottom .box-5 {
   width: 380px;
@@ -1425,10 +1425,10 @@
   align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .our-section-bottom .box-5:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .our-section-bottom .box-6 {
   width: 380px;
@@ -1438,11 +1438,11 @@
   align-items: center;
   border-radius: 2px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
   overflow: hidden;
 }
 .our-section-bottom .box-6:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .sectionHeader {
   width: 258.5px;
@@ -1620,6 +1620,16 @@
   background: white;
   border: none;
   transition: 1.5s;
+  border: 2px;
+}
+.simpleEasyer-Section-content .box-1:hover {
+  border: 2px solid #00a1a1;
+}
+.simpleEasyer-Section-content .box-3:hover {
+  border: 2px solid #00a1a1;
+}
+.simpleEasyer-Section-content .box-2:hover {
+  border: 2px solid #ffffff;
 }
 .simpleEasyer-Section-content .box-1 .personal {
   left: 30px;
