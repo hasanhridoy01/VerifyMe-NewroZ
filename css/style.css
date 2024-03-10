@@ -173,13 +173,17 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 513px;
+  width: 640px;
   height: 37px;
   gap: 10px;
 }
+.Main-Navigation .links img:hover{
+  background: #ffffff;
+  border-radius: 10px;
+}
 .Main-Navigation .links li {
   list-style: none;
-  width: 114px;
+  width: 128px;
   /* height: 37px; */
   padding: 10px, 15px, 10px, 15px;
   gap: 10px;
@@ -194,9 +198,13 @@
   letter-spacing: 0em;
   text-align: left;
   color: #222222;
+  overflow: hidden;
+  padding: 12px;
+  text-transform: uppercase;
 }
 .Main-Navigation .links li a:hover {
-  color: orangered;
+  background: #ffffff;
+  border-radius: 20px;
 }
 .links img {
   width: 20px;
@@ -494,12 +502,12 @@
   border: 1px;
   margin-right: 19px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
   .boxOne:hover {
-  transform: scale(1.1);
+    transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
@@ -548,12 +556,12 @@
   border: 1px;
   margin-right: 19px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
   .boxTwo:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
@@ -602,12 +610,12 @@
   border: 1px;
   margin-right: 19px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
   .boxThree:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
@@ -662,12 +670,12 @@
   border: 1px;
   margin-right: 19px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
   .boxFour:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partOne
@@ -724,12 +732,12 @@
   border: 1px;
   margin-right: 19px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxOne:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partTwo
@@ -778,12 +786,12 @@
   border: 1px;
   margin-right: 19px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxTwo:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partTwo
@@ -832,12 +840,12 @@
   border: 1px;
   margin-right: 19px;
   background: #d9f1f1;
-  transition: 1.5s;
+  transition: 0.5s;
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxThree:hover {
-  transform: scale(1.1);
+  transform: scale(1.04);
 }
 .Any-Industry-Anywhere-bottom
   .Any-Industry-Anywhere-Bottom-partTwo
