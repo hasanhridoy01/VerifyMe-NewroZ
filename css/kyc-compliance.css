@@ -3,11 +3,260 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 1400px;
-  height: 350px;
-  gap: 22px;
+  gap: 22;
+  margin-top: 100px;
 }
 .kyc-banner-section .kyc-banner-section-left {
+  margin-left: 200px;
 }
-.kyc-banner-section .kyc-banner-section-right {
+.kyc-banner-section .kyc-banner-section-left .solution {
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #022424;
 }
+.kyc-banner-section .kyc-banner-section-left h2 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.kyc-banner-section .kyc-banner-section-left p {
+  width: 560.75px;
+  /* height: 112px; */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.kyc-banner-section .kyc-banner-section-left button {
+  width: 208px;
+  height: 51px;
+  padding: 15px 40px 15px 40px;
+  border-radius: 30px;
+  border: 1px solid white;
+  background: #022424;
+  gap: 10px;
+  color: white;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 20px;
+}
+.kyc-banner-section .kyc-banner-section-right img {
+  width: 500px;
+  height: 350px;
+  gap: 0px;
+  margin-left: 0px;
+  margin-right: 80px;
+}
+
+/* identify-bottom-section-style-start */
+.identify-bottom-section {
+  width: 1200px;
+  height: 296px;
+  padding: 30px 0px 0px 0px;
+  gap: 0px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: auto;
+  gap: 5px;
+  margin-bottom: 150px;
+  margin-top: 100px;
+}
+.identify-bottom-section .ibox1 {
+  width: 530px;
+  height: 90px;
+  padding: 20px 30px 20px 30px;
+  border-radius: 2px;
+  border: 1px;
+  gap: 0px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.identify-bottom-section .ibox1:hover {
+  transform: scale(1.03);
+}
+.identify-bottom-section .ibox2:hover {
+  transform: scale(1.03);
+}
+.identify-bottom-section .ibox3:hover {
+  transform: scale(1.03);
+}
+.identify-bottom-section .ibox4:hover {
+  transform: scale(1.03);
+}
+.identify-bottom-section .ibox2 {
+  width: 530px;
+  height: 90px;
+  padding: 20px 30px 20px 30px;
+  border-radius: 2px;
+  border: 1px;
+  gap: 0px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.identify-bottom-section .ibox3 {
+  width: 530px;
+  height: 90px;
+  padding: 20px 30px 20px 30px;
+  border-radius: 2px;
+  border: 1px;
+  gap: 0px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.identify-bottom-section .ibox4 {
+  width: 530px;
+  height: 90px;
+  padding: 20px 30px 20px 30px;
+  border-radius: 2px;
+  border: 1px;
+  gap: 0px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.identify-bottom-section .ibox1 img {
+  background: none;
+}
+.identify-bottom-section .ibox1 .ititle {
+  width: 267px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: none;
+  position: absolute;
+  top: 18px;
+  left: 40px;
+}
+.identify-bottom-section .ibox1 .itext {
+  width: 400px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 50px;
+  left: 90px;
+}
+
+.identify-bottom-section .ibox2 img {
+  background: none;
+}
+.identify-bottom-section .ibox2 .ititle {
+  width: 367px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: none;
+  position: absolute;
+  top: 18px;
+  left: 33px;
+}
+.identify-bottom-section .ibox2 .itext {
+  width: 400px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 50px;
+  left: 95px;
+}
+
+.identify-bottom-section .ibox3 img {
+  background: none;
+}
+.identify-bottom-section .ibox3 .ititle {
+  width: 267px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: none;
+  position: absolute;
+  top: 18px;
+  left: 35px;
+}
+.identify-bottom-section .ibox3 .itext {
+  width: 400px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 50px;
+  left: 98px;
+}
+
+.identify-bottom-section .ibox4 img {
+  background: none;
+}
+.identify-bottom-section .ibox4 .ititle {
+  width: 267px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: none;
+  position: absolute;
+  top: 18px;
+  left: 15px;
+}
+.identify-bottom-section .ibox4 .itext {
+  width: 400px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 50px;
+  left: 95px;
+}
+/* identify-bottom-section-style-end */
+
+
