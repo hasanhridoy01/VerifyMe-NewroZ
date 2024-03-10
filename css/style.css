@@ -245,8 +245,8 @@
   width: 390px;
   height: 383px;
   position: absolute;
-  top: 70px;
-  left: 530px;
+  top: 90px;
+  left: 597px;
 }
 .banner-content h2 {
   width: 974px;
@@ -255,7 +255,7 @@
   top: 460.03px;
   left: 330px;
   color: #016363;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 27px;
   font-weight: 400;
   line-height: 43px;
@@ -282,7 +282,7 @@
   position: absolute;
   height: 38px;
   top: 525.03px;
-  left: 370px;
+  left: 430px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   color: gray;
@@ -291,18 +291,18 @@
   text-align: center;
 }
 .banner-content button {
-  width: 198px;
+  width: 208px;
   height: 51px;
   position: absolute;
   top: 563px;
-  left: 615px;
+  left: 695px;
   padding: 15px 40px 15px 40px;
   border-radius: 30px;
   border: 1px solid white;
   background: #022424;
   gap: 10px;
   color: white;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -322,7 +322,7 @@
 }
 .verification-section-top .section-header h1 {
   font-size: 32px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 43px;
@@ -343,7 +343,7 @@
 }
 .verification-section-top .section-header .verification-section-extraP {
   margin-top: 0px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
@@ -395,7 +395,7 @@
   border: 1px;
   margin-right: 15px;
   background-color: white;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -414,7 +414,7 @@
   border: 1px;
   margin-right: 15px;
   background-color: #d9f1f1;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-weight: 500;
   line-height: 21px;
   letter-spacing: 0em;
@@ -424,14 +424,14 @@
   background-color: white;
 }
 .verification-section-buttom .Face-Authentication button {
-  width: 205px;
+  width: 215px;
   height: 51px;
   padding: 15px 30px 15px 30px;
   border-radius: 30px;
   border: 1px;
   margin-right: 15px;
   background-color: #d9f1f1;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -449,7 +449,7 @@
   border: 1px;
   margin-right: 15px;
   background-color: #d9f1f1;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -469,7 +469,7 @@
   padding: 20px 0px 0px 200px;
 }
 .Any-Industry-Anywhere .Any-Industry-Anywhere-Top h3 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 43px;
@@ -516,7 +516,7 @@
   background-color: #d9f1f1;
 }
 .Any-Industry-Anywhere-bottom .Any-Industry-Anywhere-Bottom-partOne .boxOne h4 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -526,7 +526,7 @@
   background-color: #d9f1f1;
 }
 .Any-Industry-Anywhere-bottom .Any-Industry-Anywhere-Bottom-partOne .boxOne p {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 12px;
   font-weight: 400;
   line-height: 18px;
@@ -539,7 +539,7 @@
   .Any-Industry-Anywhere-Bottom-partOne
   .boxOne
   .btn {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -570,7 +570,7 @@
   background-color: #d9f1f1;
 }
 .Any-Industry-Anywhere-bottom .Any-Industry-Anywhere-Bottom-partOne .boxTwo h4 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -580,7 +580,7 @@
   background-color: #d9f1f1;
 }
 .Any-Industry-Anywhere-bottom .Any-Industry-Anywhere-Bottom-partOne .boxTwo p {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 18px;
@@ -593,7 +593,7 @@
   .Any-Industry-Anywhere-Bottom-partOne
   .boxTwo
   .btn {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -627,7 +627,7 @@
   .Any-Industry-Anywhere-Bottom-partOne
   .boxThree
   h4 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -653,7 +653,7 @@
   .Any-Industry-Anywhere-Bottom-partOne
   .boxThree
   .btn {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -687,7 +687,7 @@
   .Any-Industry-Anywhere-Bottom-partOne
   .boxFour
   h4 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -710,7 +710,7 @@
   .Any-Industry-Anywhere-Bottom-partOne
   .boxFour
   .btn {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -746,7 +746,7 @@
   background-color: #d9f1f1;
 }
 .Any-Industry-Anywhere-bottom .Any-Industry-Anywhere-Bottom-partTwo .boxOne h4 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -769,7 +769,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxOne
   .btn {
-  font-family: Exo;
+    font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -800,7 +800,7 @@
   background-color: #d9f1f1;
 }
 .Any-Industry-Anywhere-bottom .Any-Industry-Anywhere-Bottom-partTwo .boxTwo h4 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -823,7 +823,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxTwo
   .btn {
-  font-family: Exo;
+    font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -857,7 +857,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxThree
   h4 {
-  font-family: Exo;
+    font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
@@ -883,7 +883,7 @@
   .Any-Industry-Anywhere-Bottom-partTwo
   .boxThree
   .btn {
-  font-family: Exo;
+    font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -902,7 +902,7 @@
   padding: 20px 0px 0px 200px;
 }
 .KYC-platform .KYC-platform-Top h1 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 43px;
@@ -942,7 +942,7 @@
   padding: 14px;
 }
 .percent {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 96px;
   font-weight: 200;
   line-height: 100px;
@@ -950,7 +950,7 @@
   text-align: left;
 }
 .Audited {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 29px;
@@ -958,7 +958,7 @@
   text-align: left;
 }
 .AuditedExtra {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 21px;
   font-weight: 700;
   line-height: 29px;
@@ -989,7 +989,7 @@
 .things .things-left {
 }
 .things .things-left h2 {
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 43px;
@@ -1020,7 +1020,7 @@
   border: 1px;
   background: #d9f1f1;
   padding: 15px 40px 0px 20px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 29px;
@@ -1034,7 +1034,7 @@
   border: 1px solid #d9f1f1;
   margin-top: 8px;
   padding: 15px 40px 0px 20px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 29px;
@@ -1051,7 +1051,7 @@
 .things .things-right h5 {
   width: 400px;
   height: 58px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 29px;
@@ -1092,7 +1092,7 @@
 .Focused-Section .Focused-Section-left .Focused-Section-left-ContentOne h3 {
   width: 498px;
   height: 43px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 43px;
@@ -1114,7 +1114,7 @@
 .Focused-Section .Focused-Section-left .Focused-Section-left-ContentOne p {
   width: 350px;
   height: 21px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 21px;
@@ -1125,7 +1125,7 @@
 .Focused-Section .Focused-Section-left .Focused-Section-left-ContentTwo h3 {
   width: 591px;
   height: 43px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 43px;
@@ -1149,7 +1149,7 @@
 .Focused-Section .Focused-Section-left .Focused-Section-left-ContentTwo p {
   width: 350px;
   height: 21px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 21px;
@@ -1183,7 +1183,7 @@
 .Our-Product .Our-Product-Content-Top h1 {
   width: 333px;
   height: 43px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 43px;
@@ -1259,7 +1259,7 @@
   top: 50px;
   left: 90px;
   background: #d9f1f1;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 28px;
   font-weight: 700;
   letter-spacing: 0em;
@@ -1267,7 +1267,7 @@
 }
 .productContent {
   height: 70px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 18px;
   font-weight: 500;
   line-height: 23px;
@@ -1292,7 +1292,7 @@
 .productButton {
   width: 76px;
   height: 19px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -1447,7 +1447,7 @@
 .sectionHeader {
   width: 258.5px;
   height: 43px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 32px;
   font-weight: 700;
   line-height: 43px;
@@ -1459,7 +1459,7 @@
 .sectionHeaderIdentity {
   width: 258.5px;
   height: 43px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 27px;
   font-weight: 700;
   line-height: 43px;
@@ -1484,7 +1484,7 @@
 .sectionFooter {
   width: 258.5px;
   height: 19px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 19px;
@@ -1524,7 +1524,7 @@
   top: 6800px;
   background: none;
   left: 580px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 48px;
   font-weight: 700;
   line-height: 64px;
@@ -1536,7 +1536,7 @@
   top: 6888px;
   background: none;
   left: 620px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 64px;
@@ -1548,7 +1548,7 @@
   top: 6860px;
   background: none;
   left: 420px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 64px;
@@ -1565,7 +1565,7 @@
   padding: 14px 38px 14px 38px;
   border-radius: 100px;
   gap: 10px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -1585,7 +1585,7 @@
   padding: 14px 38px 14px 38px;
   border-radius: 100px;
   gap: 10px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -1611,7 +1611,7 @@
   padding: 31px 33px 31px 33px;
   border-radius: 2px;
   gap: 30px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -1636,7 +1636,7 @@
   top: 20px;
   width: 91px;
   height: 29px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 29px;
@@ -1649,7 +1649,7 @@
   width: 96px;
   height: 66px;
   top: 59px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 60px;
   font-weight: 300;
   line-height: 66px;
@@ -1803,7 +1803,7 @@
   padding: 31px 33px 31px 33px;
   border-radius: 2px;
   gap: 30px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -1818,7 +1818,7 @@
   top: 20px;
   width: 91px;
   height: 29px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 29px;
@@ -1831,7 +1831,7 @@
   width: 96px;
   height: 66px;
   top: 59px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 60px;
   font-weight: 300;
   line-height: 66px;
@@ -1988,7 +1988,7 @@
   padding: 31px 33px 31px 33px;
   border-radius: 2px;
   gap: 30px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 21px;
@@ -2011,7 +2011,7 @@
   top: 20px;
   width: 91px;
   height: 29px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 29px;
@@ -2024,7 +2024,7 @@
   width: 96px;
   height: 66px;
   top: 59px;
-  font-family: Exo;
+  font-family: "Exo 2", sans-serif;
   font-size: 60px;
   font-weight: 300;
   line-height: 66px;
