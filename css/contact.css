@@ -1,7 +1,7 @@
 /* Get-in-touch-section-Style-Start */
 .Get-in-touch-section {
   width: 100%;
-  height: 948px;
+  height: 700px;
   padding: 200px 0px 100px 0px;
   gap: 10px;
 }
@@ -28,4 +28,146 @@
   text-align: center;
   margin-top: 20px;
 }
+.Get-in-touch-section-middle {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  width: 1100px;
+  margin: auto;
+  margin-top: 50px;
+}
+.Get-in-touch-section-middle .Gbox-1 {
+  width: 500px;
+  height: 254px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.5s;
+}
+.Get-in-touch-section-middle .Gbox-1:hover {
+  transform: scale(1.02);
+}
+.Get-in-touch-section-middle .Gbox-1 img {
+  background: none;
+  margin-top: 5px;
+}
+.Get-in-touch-section-middle .Gbox-1 h4 {
+  background: none;
+  font-family: "Exo 2", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.Get-in-touch-section-middle .Gbox-1 p {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: none;
+}
+.Get-in-touch-section-middle .Gbox-1 button {
+  width: 168px;
+  height: 51px;
+  padding: 15px 40px 15px 40px;
+  border-radius: 30px;
+  border: 1px solid white;
+  background: #022424;
+  color: white;
+  font-family: "Exo 2", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Get-in-touch-section-middle .Gbox-2 {
+  width: 500px;
+  height: 254px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.5s;
+}
+.Get-in-touch-section-middle .Gbox-2:hover {
+  transform: scale(1.02);
+}
+.Get-in-touch-section-middle .Gbox-2 img {
+  background: none;
+  margin-top: 5px;
+}
+.Get-in-touch-section-middle .Gbox-2 h4 {
+  background: none;
+  font-family: "Exo 2", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.Get-in-touch-section-middle .Gbox-2 p {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: none;
+}
+.Get-in-touch-section-middle .Gbox-2 button {
+  width: 198px;
+  height: 51px;
+  padding: 15px 40px 15px 40px;
+  border-radius: 30px;
+  border: 1px solid white;
+  background: #022424;
+  color: white;
+  font-family: "Exo 2", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Get-in-touch-section-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+.Get-in-touch-section-bottom p {
+  width: 674px;
+  height: 60px;
+  top: 588px;
+  left: 362px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: center;
+}
 /* Get-in-touch-section-Style-End */
+
+/* Anything-else-on-your-mind-Section-Style-Start */
+.Anything-Section{}
+.Anything-Section .Anything-Section-Top{}
+/* Anything-else-on-your-mind-Section-Style-End */
