@@ -1,0 +1,220 @@
+/* BANNER-SECTION-START */
+.Simplified {
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  font-weight: bold;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #016336;
+}
+.Elevate {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.btn !important {
+  margin-top: 0px;
+}
+/* BANNER-SECTION-END */
+
+/* financial-business-section-Style-Start */
+.financial-business-section {
+  width: 1400px;
+  height: 500px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin: auto;
+}
+.financial-business-section .financial-business-section-left {
+  /* padding: 10px; */
+}
+.financial-business-section .financial-business-section-left h2 {
+  font-family: "Exo 2", sans-serif;
+  width: 500px;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 150px;
+  margin-left: 100px;
+}
+.financial-business-section .financial-business-section-left p {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.financial-business-section .financial-business-section-right {
+}
+/* financial-business-section-Style-End */
+
+/* FINANCIAL-IDENTITY-VERIFICATION-SECTION-Style-Start */
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: auto;
+  width: 1400px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox1 {
+  width: 395px;
+  height: 204px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: 0.5s;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox1:hover {
+  transform: scale(1.02);
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox1 img {
+  width: 51px;
+  height: 51px;
+  background: none;
+}
+.financial-h2 {
+  width: 393.33px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+}
+.financial-p {
+  width: 393.33px;
+  height: 80px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox2 {
+  width: 395px;
+  height: 204px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: 0.5s;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox2:hover {
+  transform: scale(1.02);
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox2 img {
+  width: 51px;
+  height: 51px;
+  background: none;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox3 {
+  width: 395px;
+  height: 204px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: 0.5s;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox3:hover {
+  transform: scale(1.02);
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox3 img {
+  width: 51px;
+  height: 51px;
+  background: none;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox4 {
+  width: 395px;
+  height: 204px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: 0.5s;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox4:hover {
+  transform: scale(1.02);
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox4 img {
+  width: 51px;
+  height: 51px;
+  background: none;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox5 {
+  width: 395px;
+  height: 204px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: 0.5s;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox5:hover {
+  transform: scale(1.02);
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox5 img {
+  width: 51px;
+  height: 51px;
+  background: none;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox6 {
+  width: 395px;
+  height: 204px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 20px;
+  background: #d9f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: 0.5s;
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox6:hover {
+  transform: scale(1.02);
+}
+.FINANCIAL-IDENTITY-VERIFICATION-SECTION .ibox6 img {
+  width: 51px;
+  height: 51px;
+  background: none;
+}
+/* FINANCIAL-IDENTITY-VERIFICATION-SECTION-Style-End */

@@ -42,7 +42,7 @@
   padding: 15px 40px 15px 40px;
   border-radius: 30px;
   border: 1px solid white;
-  background: #022424;
+  background: #016363;
   gap: 10px;
   color: white;
   font-family: "Exo 2", sans-serif;
@@ -326,7 +326,7 @@
 }
 .KYC-service-section .KYC-service-content-bottom .KYC-left p {
   background: none;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 22px;
@@ -349,7 +349,7 @@
 }
 .KYC-service-section .KYC-service-content-bottom .KYC-right p {
   background: none;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 22px;
@@ -359,18 +359,18 @@
 /* KYC-service-section-style-end */
 
 /* Administrative-Portal-Section-Style-Start */
-.Administrative-Section{
-    width: 100%;
-    height: 1037px;
-    padding: 100px 0px 200px 0px;
-    gap: 10px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin-top: 0px;
-  }
-.Administrative-Section img{
+.Administrative-Section {
+  width: 100%;
+  height: 1037px;
+  padding: 100px 0px 200px 0px;
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+}
+.Administrative-Section img {
   width: 100%;
   height: 1037px;
   padding: 200px 0px 200px 0px;
@@ -379,5 +379,307 @@
 /* Administrative-Portal-Section-Style-End */
 
 /* Seamless-integration-Section-Style-Start */
+.Seamless-Section {
+  width: 1200px;
+  height: 106px;
+  padding: 10px;
+  gap: 0px;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  margin: auto;
+  gap: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.Seamless-Section .Seamless-Section-Top h1 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.Seamless-Section .Seamless-Section-Top p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 9px;
+  color: #555555;
+}
 
+.Seamless-Section-Bottom {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  width: 1200px;
+  margin: auto;
+}
+.Seamless-Section-Bottom .Sbox1 {
+  width: 363.33px;
+  height: 122px;
+  padding: 0px 20px 0px 0px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 19px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.Seamless-Section-Bottom .Sbox1:hover{
+  transform: scale(1.05);
+}
+.Seamless-Section-Bottom .Sbox1 img {
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox1 h4 {
+  width: 292.33px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  top: 15px;
+  left: 140px;
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox1 p {
+  width: 232.33px;
+  height: 60px;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 45px;
+  left: 140px;
+}
+.Seamless-Section-Bottom .Sbox2 {
+  width: 363.33px;
+  height: 122px;
+  padding: 0px 20px 0px 0px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 19px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.Seamless-Section-Bottom .Sbox2:hover{
+  transform: scale(1.05);
+}
+.Seamless-Section-Bottom .Sbox2 img {
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox2 h4 {
+  width: 292.33px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  top: 15px;
+  left: 140px;
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox2 p {
+  width: 232.33px;
+  height: 60px;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 45px;
+  left: 140px;
+}
+.Seamless-Section-Bottom .Sbox3 {
+  width: 363.33px;
+  height: 122px;
+  padding: 0px 20px 0px 0px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 19px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.Seamless-Section-Bottom .Sbox3:hover{
+  transform: scale(1.05);
+}
+.Seamless-Section-Bottom .Sbox3 img {
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox3 h4 {
+  width: 292.33px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  top: 15px;
+  left: 140px;
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox3 p {
+  width: 232.33px;
+  height: 60px;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 45px;
+  left: 140px;
+}
+.Seamless-Section-Bottom .Sbox4 {
+  width: 363.33px;
+  height: 122px;
+  padding: 0px 20px 0px 0px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 19px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.Seamless-Section-Bottom .Sbox4:hover{
+  transform: scale(1.05);
+}
+.Seamless-Section-Bottom .Sbox4 img {
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox4 h4 {
+  width: 292.33px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  top: 15px;
+  left: 140px;
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox4 p {
+  width: 232.33px;
+  height: 60px;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 45px;
+  left: 140px;
+}
+.Seamless-Section-Bottom .Sbox5 {
+  width: 363.33px;
+  height: 122px;
+  padding: 0px 20px 0px 0px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 19px;
+  background: #d9f1f1;
+  position: relative;
+  transition: 0.5s;
+}
+.Seamless-Section-Bottom .Sbox5:hover{
+  transform: scale(1.05);
+}
+.Seamless-Section-Bottom .Sbox5 img {
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox5 h4 {
+  width: 292.33px;
+  height: 21px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  top: 15px;
+  left: 140px;
+  background: none;
+}
+.Seamless-Section-Bottom .Sbox5 p {
+  width: 232.33px;
+  height: 60px;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+  position: absolute;
+  top: 45px;
+  left: 140px;
+}
+.Seamless-Section-Bottom .Sbox6 {
+  width: 363.33px;
+  height: 122px;
+  padding: 0px 20px 0px 0px;
+  border-radius: 2px;
+  border: 1px solid #bfe8e8;
+  gap: 19px;
+  background: #39b4b4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+}
+.Seamless-Section-Bottom .Sbox6 h3 {
+  background: none;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+.Seamless-Section-Bottom .Sbox6 p {
+  background: none;
+  text-align: left;
+  margin-right: 150px;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.Seamless-Section-Bottom .Sbox6:hover{
+  transform: scale(1.05);
+  background: #5c9898;
+}
 /* Seamless-integration-Section-Style-End */

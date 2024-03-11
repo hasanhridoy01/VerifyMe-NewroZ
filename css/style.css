@@ -232,7 +232,7 @@
 ul.dropdown {
   display: none;
   position: absolute;
-  margin-top: 20px;
+  padding-top: 20px;
   background: #ffffff;
   padding-left: 0px;
 }
@@ -265,7 +265,7 @@ ul.dropdown li a {
 
 ul.links > li:hover > ul.dropdown {
   display: block;
-  width: 400px;
+  width: 250px;
   padding-left: 0px;
 }
 
@@ -273,7 +273,7 @@ ul.links > li:hover > ul.dropdown {
 ul.dropdownTwo {
   display: none;
   position: absolute;
-  margin-top: 20px;
+  padding-top: 20px;
   background: #ffffff;
   padding-left: 0px;
 }
@@ -306,7 +306,7 @@ ul.dropdownTwo li a {
 
 ul.links > li:hover > ul.dropdownTwo {
   display: block;
-  width: 400px;
+  width: 250px;
   padding-left: 0px;
 }
 /* HEADER-STYLE-END */
