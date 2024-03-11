@@ -218,3 +218,202 @@
   background: none;
 }
 /* FINANCIAL-IDENTITY-VERIFICATION-SECTION-Style-End */
+
+/* SIMPLE-EASYER-SECTION-STYLE-START */
+.simpleEasyer-Section-content .simple-header {
+  background: none;
+  position: absolute;
+  top: 2350px;
+  left: 345px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.simpleEasyer-Section-content .simple-content {
+  background: none;
+  position: absolute;
+  top: 2420px;
+  left: 320px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 927px;
+  height: 57px;
+}
+.simple-box-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: auto;
+  position: relative;
+}
+.simple-box-content .Sbox-1 {
+  position: absolute;
+  top: -600px;
+  left: 300px;
+  width: 252.67px;
+  height: 309px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px;
+  gap: 20px;
+  background: #ffffff;
+  transition: 0.5s;
+}
+.simple-box-content .Sbox-1:hover {
+  transform: scale(1.03);
+}
+.simple-box-content .Sbox-1 img {
+  position: absolute;
+  top: -170px;
+  left: -160px;
+  height: 51px;
+  width: 51px;
+  padding: 3.73px 0.5px 3.73px 0.5px;
+}
+.simple-box-content .Sbox-1 h4 {
+  position: absolute;
+  top: 100px;
+  left: 40px;
+  width: 260px;
+  height: 42px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+}
+.simple-box-content .Sbox-1 p {
+  position: absolute;
+  top: 160px;
+  left: 40px;
+  width: 260px;
+  height: 140px;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.simple-box-content .Sbox-2 {
+  position: absolute;
+  top: -600px;
+  left: 630px;
+  width: 252.67px;
+  height: 309px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px;
+  gap: 20px;
+  background: #ffffff;
+  transition: 0.5s;
+}
+.simple-box-content .Sbox-2:hover {
+  transform: scale(1.03);
+}
+.simple-box-content .Sbox-2 img {
+  position: absolute;
+  top: -170px;
+  left: -160px;
+  height: 51px;
+  width: 51px;
+  padding: 3.73px 0.5px 3.73px 0.5px;
+}
+.simple-box-content .Sbox-2 h4 {
+  position: absolute;
+  top: 100px;
+  left: 40px;
+  width: 260px;
+  height: 42px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+}
+.simple-box-content .Sbox-2 p {
+  position: absolute;
+  top: 160px;
+  left: 40px;
+  width: 260px;
+  height: 140px;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.simple-box-content .Sbox-3 {
+  position: absolute;
+  top: -600px;
+  left: 960px;
+  width: 252.67px;
+  height: 309px;
+  padding: 30px;
+  border-radius: 2px;
+  border: 1px;
+  gap: 20px;
+  background: #ffffff;
+  transition: 0.5s;
+}
+.simple-box-content .Sbox-3:hover {
+  transform: scale(1.03);
+}
+.simple-box-content .Sbox-3 img {
+  position: absolute;
+  top: -170px;
+  left: -160px;
+  height: 51px;
+  width: 51px;
+  padding: 3.73px 0.5px 3.73px 0.5px;
+}
+.simple-box-content .Sbox-3 h4 {
+  position: absolute;
+  top: 100px;
+  left: 40px;
+  width: 260px;
+  height: 42px;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: none;
+}
+.simple-box-content .Sbox-3 p {
+  position: absolute;
+  top: 160px;
+  left: 40px;
+  width: 260px;
+  height: 140px;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+/* SIMPLE-EASYER-SECTION-STYLE-END */
+
+/* verification-panel-section-Start */
+.verification-panel-section{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    margin-top: 50px;
+}
+.verification-panel-section img{
+}
+/* verification-panel-section-End */
