@@ -1,7 +1,7 @@
 /* Get-in-touch-section-Style-Start */
 .Get-in-touch-section {
   width: 100%;
-  height: 700px;
+  height: 500px;
   padding: 200px 0px 100px 0px;
   gap: 10px;
 }
@@ -168,6 +168,124 @@
 /* Get-in-touch-section-Style-End */
 
 /* Anything-else-on-your-mind-Section-Style-Start */
-.Anything-Section{}
-.Anything-Section .Anything-Section-Top{}
+.Anything-Section {
+  width: 100%;
+  height: 400px;
+  padding: 200px 0px 100px 0px;
+  gap: 10px;
+}
+.Anything-Section img {
+  background: none;
+  height: 600px;
+  width: 1200px;
+  display: block;
+  margin: auto;
+}
+.Anything-Section-Top {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.Anything-Section-Top h2 {
+  background: none;
+  font-family: "Exo 2", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.Anything-Section-Top p {
+  background: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 10px;
+  color: gray;
+}
+.Anything-Section-middle {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  width: 1100px;
+  margin: auto;
+  margin-top: 50px;
+}
+.Anything-Section-middle .Abox-1 {
+  width: 323px;
+  height: 122px;
+  padding: 0px 30px 0px 0px;
+  border-radius: 2px;
+  background: #ffffff;
+  gap: 19px;
+  border: 1px solid #d9f1f1;
+}
+.Anything-Section-middle .Abox-1 img {
+  width: 100%;
+  height: 122px;
+  padding: 0px 30px 0px 0px;
+  border-radius: 2px;
+  background: #ffffff;
+  gap: 19px;
+  border: 1px solid #d9f1f1;
+  background: none;
+}
+.Anything-Section-middle .Abox-2 {
+  width: 323px;
+  height: 120px;
+  padding: 0px 30px 0px 0px;
+  border-radius: 2px;
+  background: #ffffff;
+  gap: 19px;
+  border: 1px solid #d9f1f1;
+}
+.Anything-Section-middle .Abox-2 img {
+  width: 122px;
+  height: 118px;
+  padding: 1px;
+  gap: 20px;
+  float: left;
+  margin-right: 20px;
+}
+.Anything-Section-middle .Abox-2 h5 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  background: none;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.Anything-Section-middle .Abox-3 {
+  width: 323px;
+  height: 122px;
+  padding: 0px 30px 0px 0px;
+  border-radius: 2px;
+  background: #ffffff;
+  gap: 19px;
+  border: 1px solid #d9f1f1;
+}
+.Anything-Section-middle .Abox-3 img {
+  width: 122px;
+  height: 118px;
+  padding: 1px;
+  gap: 20px;
+  float: left;
+  margin-right: 20px;
+}
+.Anything-Section-middle .Abox-3 h5 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  background: none;
+  margin-top: 30px;
+  margin-left: 40px;
+}
 /* Anything-else-on-your-mind-Section-Style-End */
